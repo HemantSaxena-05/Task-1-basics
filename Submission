@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 #Participant to enter their details here:
 
-name="name"
-Roll_no="*************"
-branch="*****"
-mail="*********"
-phone="*********"
-remarks="********"
+name="Hemant Manoj Saxena"
+Roll_no="16015025067"
+branch="CSBS"
+mail="hemant.saxena@somaiya.edu"
+phone="7021982951"
+remarks="none"
 #enter anything you want to add
 
 echo $name " | " $Roll_no " | " $branch " | " $remarks
